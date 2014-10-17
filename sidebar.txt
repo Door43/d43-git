@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[git:home|Door43 (git)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-git|d43-git repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-git/archive/master.zip|d43-git.zip]]
+
+**Recent Changes**
+{{changes>ns = git}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/git|Ethnologue data]]
+
